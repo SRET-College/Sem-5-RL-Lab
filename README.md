@@ -29,7 +29,7 @@ Each lab is implemented as a Jupyter Notebook, covering key RL algorithms and co
 
 ## ⚙️ Requirements
 
-- Python 3.x  
+- Python 3.8+  
 - Jupyter Notebook  
 - Common libraries:  
   - Numpy
